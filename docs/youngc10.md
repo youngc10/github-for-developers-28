@@ -1,2 +1,2 @@
-Chris
-Blue
+**Name:** Chris
+**Occupation:** Software Engineer
